@@ -1,4 +1,4 @@
-# Hi, I'm Winnie 👋
+# Hi, I'm Winona 👋
 
 🌱 **Aspiring Developer & Creative Tech Enthusiast**
 🎨 Artist • 💻 Programmer • 🚀 Lifelong Learner
@@ -20,7 +20,7 @@ I'm continuously improving my skills and enjoy working on projects that solve re
 
 * **Languages:** JavaScript, TypeScript, SQL, Python
 * **Frontend:** React, HTML, CSS
-* **Backend:** Node.js, Express
+* **Backend:** Node.js
 * **Databases:** MySQL, Supabase
 * **Game/App Dev:** Godot (2D), Kivy (Python)
 
@@ -43,7 +43,7 @@ I'm continuously improving my skills and enjoy working on projects that solve re
 
 ## 🌱 Currently Learning
 
-* Advanced React & Redux
+* Advanced React & Electron
 * Backend API security
 * Game backend integration
 * Clean code & best practices
@@ -61,7 +61,7 @@ I'm continuously improving my skills and enjoy working on projects that solve re
 
 ## 📫 Connect With Me
 
-* GitHub: **@your-username**
+* GitHub: **https://github.com/WinonaLaher2002/**
 * Portfolio: *(coming soon)*
 
 ---
