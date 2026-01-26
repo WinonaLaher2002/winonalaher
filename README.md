@@ -62,7 +62,7 @@ I'm continuously improving my skills and enjoy working on projects that solve re
 ## 📫 Connect With Me
 
 * GitHub: **https://github.com/WinonaLaher2002/**
-* Portfolio: *(coming soon)*
+* Portfolio: *https://winonablaherportfolio.42web.io/*
 
 ---
 
